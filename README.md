@@ -1,4 +1,4 @@
-# wcia-assays v0.8
+# wcia-assays v0.9
 A collection of assay names and identifiers, standardized for use in interoperability of Cannabis-related data.
 
 ----------------------------------------
