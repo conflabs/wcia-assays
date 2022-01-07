@@ -17,3 +17,7 @@ A collection of assay names and identifiers, standardized for use in interoperab
 * Solvents [(docs)](https://github.com/conflabs/wcia-assays/blob/main/docs/Solvents.md) [(json)](https://github.com/conflabs/wcia-assays/blob/main/solvents.json)
 * Terpenes [(docs)](https://github.com/conflabs/wcia-assays/blob/main/docs/Terpenes.md) [(json)](https://github.com/conflabs/wcia-assays/blob/main/terpenes.json)
 * Water Activity [(docs)](https://github.com/conflabs/wcia-assays/blob/main/docs/WaterActivity.md) [(json)](https://github.com/conflabs/wcia-assays/blob/main/waterActivity.json)
+
+### Resources
+
+* [JSON Specification (RFC 8259)](https://www.ietf.org/rfc/rfc8259.txt)
