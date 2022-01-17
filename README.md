@@ -3,7 +3,7 @@ A collection of assay names and identifiers, standardized for use in interoperab
 
 ----------------------------------------
 
-# Version 0.9
+# Version 0.9.8
 
 ## Table of Contents
 
