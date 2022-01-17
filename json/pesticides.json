@@ -1,10 +1,10 @@
 [
   {
-    "ulid": "01FR3QCB61JW1W80SD2CY3589K",
-    "uuid": "a50dea25-2e2c-4e10-a409-ea64bec7cb0d",
+    "ulid": "018NY6XC0041G41TQW7V4S456K",
     "assay_name": "pesticide assay",
     "common_names":  [
-      "pesticides"
+      "pesticides",
+      "pesticide test"
     ]
   }
 ]

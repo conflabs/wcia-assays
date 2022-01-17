@@ -1,10 +1,10 @@
 [
   {
-    "ulid": "01FR3QCB61DME91A8XAQ01GBMR",
-    "uuid": "e8eb8207-0806-4c10-bfe3-5899030f3731",
+    "ulid": "018NY6XC0066H2G9CBJ3Z6SAHK",
     "assay_name": "terpene assay",
     "common_names":  [
-      "terpenes"
+      "terpenes",
+      "terpene test"
     ]
   }
 ]

@@ -1,10 +1,11 @@
 [
   {
     "ulid": "01FR3QCB61D6Y9MZ76ZTBJTP2Y",
-    "uuid": "243395b1-af67-455d-9453-16818dde4b04",
     "assay_name": "microbial assay",
     "common_names":  [
-      "microbials", "microbes"
+      "microbials",
+      "microbial test",
+      "microbes"
     ]
   }
 ]

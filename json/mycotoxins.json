@@ -1,10 +1,10 @@
 [
   {
-    "ulid": "01FR3QCB61PFAEFHQEBZFF6SYV",
-    "uuid": "ecc7194e-7a37-4348-99a5-127b33d1f5fc",
+    "ulid": "018NY6XC00K1W4JR972BWDV491",
     "assay_name": "mycotoxin assay",
     "common_names":  [
-      "mycotoxins"
+      "mycotoxins",
+      "mycotoxin assay"
     ]
   }
 ]
