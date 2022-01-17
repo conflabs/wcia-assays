@@ -1,23 +1,21 @@
 # Terpenes
-
-An assay object for general interop use.
+A list of Terpenes Assays for use in interoperability.
 
 ----------------------------------------
 
-##  terpene assay
+## Terpene Assay
 
-* ULID: `01FR3QCB61DME91A8XAQ01GBMR`
-* UUID: `e8eb8207-0806-4c10-bfe3-5899030f3731`
+* ULID: `018NY6XC0066H2G9CBJ3Z6SAHK`
 * Assay Name: `terpene assay`
-* Common Names: `terpenes`
-
+* Common Names: `terpenes, terpene test`
 ```json
 {
-  "ulid": "01FR3QCB61DME91A8XAQ01GBMR",
-  "uuid": "e8eb8207-0806-4c10-bfe3-5899030f3731",
-  "assay_name": "terpene assay",
-  "common_names": [
-    "terpenes"
-  ]
+    "ulid": "018NY6XC0066H2G9CBJ3Z6SAHK",
+    "assay_name": "terpene assay",
+    "common_names": [
+        "terpenes",
+        "terpene test"
+    ]
 }
 ```
+

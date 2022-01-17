@@ -1,23 +1,21 @@
-#  Pesticides
-
-An assay object for general interop use.
+# Pesticides
+A list of Pesticides Assays for use in interoperability.
 
 ----------------------------------------
 
-##  pesticide assay
+## Pesticide Assay
 
-* ULID: `01FR3QCB61JW1W80SD2CY3589K`
-* UUID: `a50dea25-2e2c-4e10-a409-ea64bec7cb0d`
+* ULID: `018NY6XC0041G41TQW7V4S456K`
 * Assay Name: `pesticide assay`
-* Common Names: `pesticides`
-
+* Common Names: `pesticides, pesticide test`
 ```json
 {
-  "ulid": "01FR3QCB61JW1W80SD2CY3589K",
-  "uuid": "a50dea25-2e2c-4e10-a409-ea64bec7cb0d",
-  "assay_name": "pesticide assay",
-  "common_names": [
-    "pesticides"
-  ]
+    "ulid": "018NY6XC0041G41TQW7V4S456K",
+    "assay_name": "pesticide assay",
+    "common_names": [
+        "pesticides",
+        "pesticide test"
+    ]
 }
 ```
+

@@ -1,25 +1,25 @@
-#  Solvents
-
-An assay object for general interop use.
+# Solvents
+A list of Solvents Assays for use in interoperability.
 
 ----------------------------------------
 
-##  solvent assay
+## Solvent Assay
 
-* ULID: `01FR3QCB61ZGXJVQA4JZ4VT9CA`
-* UUID: `ab596a21-6000-47fc-b717-ad80e9494846`
+* ULID: `018NY6XC00XZ7ETMHJMFXSN9NX`
 * Assay Name: `solvent assay`
-* Common Names: `solvents, residual solvents, solvent impurities`
-
+* Common Names: `solvents, solvent test, residual solvents, residual solvent test, solvent impurities, solvent impurities test`
 ```json
 {
-  "ulid": "01FR3QCB61ZGXJVQA4JZ4VT9CA",
-  "uuid": "ab596a21-6000-47fc-b717-ad80e9494846",
-  "assay_name": "solvent assay",
-  "common_names": [
-    "solvents",
-    "residual solvents",
-    "solvent impurities"
-  ]
+    "ulid": "018NY6XC00XZ7ETMHJMFXSN9NX",
+    "assay_name": "solvent assay",
+    "common_names": [
+        "solvents",
+        "solvent test",
+        "residual solvents",
+        "residual solvent test",
+        "solvent impurities",
+        "solvent impurities test"
+    ]
 }
 ```
+

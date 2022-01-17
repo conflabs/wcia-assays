@@ -1,24 +1,22 @@
 # Microbials
-
-An assay object for general interop use.
+A list of Microbial Assays for use in interoperability.
 
 ----------------------------------------
 
-##  microbial assay
+## Microbial Assay
 
 * ULID: `01FR3QCB61D6Y9MZ76ZTBJTP2Y`
-* UUID: `243395b1-af67-455d-9453-16818dde4b04`
 * Assay Name: `microbial assay`
-* Common Names: `microbials, microbes`
-
+* Common Names: `microbials, microbial test, microbes`
 ```json
 {
-  "ulid": "01FR3QCB61D6Y9MZ76ZTBJTP2Y",
-  "uuid": "243395b1-af67-455d-9453-16818dde4b04",
-  "assay_name": "microbial assay",
-  "common_names": [
-    "microbials",
-    "microbes"
-  ]
+    "ulid": "01FR3QCB61D6Y9MZ76ZTBJTP2Y",
+    "assay_name": "microbial assay",
+    "common_names": [
+        "microbials",
+        "microbial test",
+        "microbes"
+    ]
 }
 ```
+

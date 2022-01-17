@@ -1,23 +1,21 @@
-#  Water Activity
-
-An assay object for general interop use.
+# Water Activity
+A list of Water Activity Assays for use in interoperability.
 
 ----------------------------------------
 
-##  water activity assay
+## Water Activity Assay
 
 * ULID: `01FR3QCB61RWVXNDWBCTTG2Y61`
-* UUID: `1419f37b-78bd-4559-ab48-b2c556ef702a`
 * Assay Name: `water activity assay`
-* Common Names: `water activity`
-
+* Common Names: `water activity, water activity test`
 ```json
 {
-  "ulid": "01FR3QCB61RWVXNDWBCTTG2Y61",
-  "uuid": "1419f37b-78bd-4559-ab48-b2c556ef702a",
-  "assay_name": "water activity assay",
-  "common_names": [
-    "water activity"
-  ]
+    "ulid": "01FR3QCB61RWVXNDWBCTTG2Y61",
+    "assay_name": "water activity assay",
+    "common_names": [
+        "water activity",
+        "water activity test"
+    ]
 }
 ```
+

@@ -1,23 +1,21 @@
-#  Mycotoxins
-
-An assay object for general interop use.
+# Mycotoxins
+A list of Mycotoxins Assays for use in interoperability.
 
 ----------------------------------------
 
-##  mycotoxin assay
+## Mycotoxin Assay
 
-* ULID: `01FR3QCB61PFAEFHQEBZFF6SYV`
-* UUID: `ecc7194e-7a37-4348-99a5-127b33d1f5fc`
+* ULID: `018NY6XC00K1W4JR972BWDV491`
 * Assay Name: `mycotoxin assay`
-* Common Names: `mycotoxins`
-
+* Common Names: `mycotoxins, mycotoxin assay`
 ```json
 {
-  "ulid": "01FR3QCB61PFAEFHQEBZFF6SYV",
-  "uuid": "ecc7194e-7a37-4348-99a5-127b33d1f5fc",
-  "assay_name": "mycotoxin assay",
-  "common_names": [
-    "mycotoxins"
-  ]
+    "ulid": "018NY6XC00K1W4JR972BWDV491",
+    "assay_name": "mycotoxin assay",
+    "common_names": [
+        "mycotoxins",
+        "mycotoxin assay"
+    ]
 }
 ```
+

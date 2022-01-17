@@ -1,22 +1,23 @@
 # Cannabinoids
-An assay object for general interop use.
+A list of Cannabinoids Assays for use in interoperability.
 
 ----------------------------------------
 
-## cannabinoid assay
+## Cannabinoid Assay
 
-* ULID: `01FR3QCB61Y3V218NQ4Y991CPW`
-* UUID: `72d1e79b-fae5-4749-913b-068ceb88562a`
+* ULID: `018NY6XC00QZD3QNR0VKBCC2T4`
 * Assay Name: `cannabinoid assay`
-* Common Names: `cannabinoids, cannabinoids potency, potency`
-
+* Common Names: `cannabinoids, cannabinoid test, cannabinoids potency, potency`
 ```json
-  {
-    "ulid": "01FR3QCB61Y3V218NQ4Y991CPW",
-    "uuid": "72d1e79b-fae5-4749-913b-068ceb88562a",
+{
+    "ulid": "018NY6XC00QZD3QNR0VKBCC2T4",
     "assay_name": "cannabinoid assay",
     "common_names": [
-      "cannabinoids", "cannabinoids potency", "potency"
+        "cannabinoids",
+        "cannabinoid test",
+        "cannabinoids potency",
+        "potency"
     ]
-  }
+}
 ```
+
