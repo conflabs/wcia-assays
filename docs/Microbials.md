@@ -1,5 +1,5 @@
 # Microbials
-A list of Microbial Assays for use in interoperability.
+A list of Microbials Assays for use in interoperability.
 
 ----------------------------------------
 

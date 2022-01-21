@@ -1,5 +1,5 @@
-# Loss On Drying
-A list of Loss On Drying Assays for use in interoperability.
+# LossOnDrying
+A list of LossOnDrying Assays for use in interoperability.
 
 ----------------------------------------
 
