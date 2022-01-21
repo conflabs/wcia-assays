@@ -1,5 +1,5 @@
-# Foreign Matter
-A list of Foreign Matter Assays for use in interoperability.
+# ForeignMatter
+A list of ForeignMatter Assays for use in interoperability.
 
 ----------------------------------------
 

@@ -1,5 +1,5 @@
-# Water Activity
-A list of Water Activity Assays for use in interoperability.
+# WaterActivity
+A list of WaterActivity Assays for use in interoperability.
 
 ----------------------------------------
 

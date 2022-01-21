@@ -1,7 +1,6 @@
 [
   {
     "ulid": "018NY6XC00QZD3QNR0VKBCC2T4",
-    "uuid": "72d1e79b-fae5-4749-913b-068ceb88562a",
     "assay_name": "cannabinoid assay",
     "common_names": [
       "cannabinoids",
@@ -12,25 +11,15 @@
   },
   {
     "ulid": "01FR3QCB61W03ADV6PXVFR7KJG",
-    "uuid": "cab76525-8e02-4c1d-a7dc-0e8a231bb4ef",
     "assay_name": "foreign matter assay",
-    "common_names":  [
-      "foreign matter", "foreign object", "physical inspection"
-    ]
-  },
-  {
-    "ulid": "018NY6XC00S89BTCS7E52FSJ9A",
-    "uuid": "4d06ef9b-14b6-428d-bda9-9d5825d98566",
-    "assay_name": "heavy metal assay",
-    "common_names":  [
-      "metals",
-      "heavy metals",
-      "heavy metal test"
+    "common_names": [
+      "foreign matter",
+      "foreign object",
+      "physical inspection"
     ]
   },
   {
     "ulid": "01FR3QCB61KCFACJTZPCV54TK7",
-    "uuid": "506f58f4-23d0-46fc-968c-5297ec1f3ce8",
     "assay_name": "loss on drying assay",
     "common_names":  [
       "loss on drying",
@@ -41,8 +30,16 @@
     ]
   },
   {
+    "ulid": "018NY6XC00S89BTCS7E52FSJ9A",
+    "assay_name": "heavy metal assay",
+    "common_names":  [
+      "metals",
+      "heavy metals",
+      "heavy metal test"
+    ]
+  },
+  {
     "ulid": "01FR3QCB61D6Y9MZ76ZTBJTP2Y",
-    "uuid": "243395b1-af67-455d-9453-16818dde4b04",
     "assay_name": "microbial assay",
     "common_names":  [
       "microbials",
@@ -52,16 +49,6 @@
   },
   {
     "ulid": "018NY6XC00K1W4JR972BWDV491",
-    "uuid": "ecc7194e-7a37-4348-99a5-127b33d1f5fc",
-    "assay_name": "mycotoxin assay",
-    "common_names":  [
-      "mycotoxins",
-      "mycotoxin assay"
-    ]
-  },
-  {
-    "ulid": "018NY6XC00K1W4JR972BWDV491",
-    "uuid": "ecc7194e-7a37-4348-99a5-127b33d1f5fc",
     "assay_name": "mycotoxin assay",
     "common_names":  [
       "mycotoxins",
@@ -70,7 +57,6 @@
   },
   {
     "ulid": "01FR3QCB61F4RCVCK2RXAAP6GN",
-    "uuid": "be50c56c-32e9-422a-ba89-0f110e1f6f55",
     "assay_name": "outsourced assay",
     "common_names":  [
       "outsourced"
@@ -78,7 +64,6 @@
   },
   {
     "ulid": "018NY6XC0041G41TQW7V4S456K",
-    "uuid": "a50dea25-2e2c-4e10-a409-ea64bec7cb0d",
     "assay_name": "pesticide assay",
     "common_names":  [
       "pesticides",
@@ -87,7 +72,6 @@
   },
   {
     "ulid": "018NY6XC00XZ7ETMHJMFXSN9NX",
-    "uuid": "ab596a21-6000-47fc-b717-ad80e9494846",
     "assay_name": "solvent assay",
     "common_names":  [
       "solvents",
@@ -100,7 +84,6 @@
   },
   {
     "ulid": "018NY6XC0066H2G9CBJ3Z6SAHK",
-    "uuid": "e8eb8207-0806-4c10-bfe3-5899030f3731",
     "assay_name": "terpene assay",
     "common_names":  [
       "terpenes",
@@ -109,7 +92,6 @@
   },
   {
     "ulid": "01FR3QCB61RWVXNDWBCTTG2Y61",
-    "uuid": "1419f37b-78bd-4559-ab48-b2c556ef702a",
     "assay_name": "water activity assay",
     "common_names":  [
       "water activity",

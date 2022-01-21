@@ -1,5 +1,5 @@
-# All Assays
-A list of All Assays for use in interoperability.
+# AllAssays
+A list of AllAssays Assays for use in interoperability.
 
 ----------------------------------------
 
@@ -42,25 +42,6 @@ A list of All Assays for use in interoperability.
 
 ----------------------------------------
 
-## Heavy Metal Assay
-
-* ULID: `018NY6XC00S89BTCS7E52FSJ9A`
-* Assay Name: `heavy metal assay`
-* Common Names: `metals, heavy metals, heavy metal test`
-```json
-{
-    "ulid": "018NY6XC00S89BTCS7E52FSJ9A",
-    "assay_name": "heavy metal assay",
-    "common_names": [
-        "metals",
-        "heavy metals",
-        "heavy metal test"
-    ]
-}
-```
-
-----------------------------------------
-
 ## Loss On Drying Assay
 
 * ULID: `01FR3QCB61KCFACJTZPCV54TK7`
@@ -82,6 +63,25 @@ A list of All Assays for use in interoperability.
 
 ----------------------------------------
 
+## Heavy Metal Assay
+
+* ULID: `018NY6XC00S89BTCS7E52FSJ9A`
+* Assay Name: `heavy metal assay`
+* Common Names: `metals, heavy metals, heavy metal test`
+```json
+{
+    "ulid": "018NY6XC00S89BTCS7E52FSJ9A",
+    "assay_name": "heavy metal assay",
+    "common_names": [
+        "metals",
+        "heavy metals",
+        "heavy metal test"
+    ]
+}
+```
+
+----------------------------------------
+
 ## Microbial Assay
 
 * ULID: `01FR3QCB61D6Y9MZ76ZTBJTP2Y`
@@ -95,24 +95,6 @@ A list of All Assays for use in interoperability.
         "microbials",
         "microbial test",
         "microbes"
-    ]
-}
-```
-
-----------------------------------------
-
-## Mycotoxin Assay
-
-* ULID: `018NY6XC00K1W4JR972BWDV491`
-* Assay Name: `mycotoxin assay`
-* Common Names: `mycotoxins, mycotoxin assay`
-```json
-{
-    "ulid": "018NY6XC00K1W4JR972BWDV491",
-    "assay_name": "mycotoxin assay",
-    "common_names": [
-        "mycotoxins",
-        "mycotoxin assay"
     ]
 }
 ```
